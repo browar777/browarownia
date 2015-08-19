@@ -1,2 +1,9 @@
 # browarownia
-github testy
+
+
+
+Testyuje edycje plike 
+
+2015.08.19
+
+
