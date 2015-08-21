@@ -54,6 +54,9 @@
 	
 	$char = '+';
 	
+	
+	$x = $_POST['x'];
+	$z = $_POST['y'];
 $c = eval("return $x $char $z;");
 echo $c;
 ?>
