@@ -27,7 +27,7 @@
 	   <h1>Wynik :
 
 <?PHP
-
+echo 'hell';
 	if(!empty($_POST))
 	{
 		switch ($_POST['value']) 
