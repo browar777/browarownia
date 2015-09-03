@@ -17,7 +17,7 @@
 	  X: <input type="text"  name="x"/>
 	   Y: <input type="text"  name="y"/>
 	   
-	   <button type="submit" name="value" value="=">-</button>
+	   <button type="submit" name="value" value="-">-</button>
 	   <button type="submit" name="value" value="+">+</button>
 	   <button type="submit" name="value" value="*">*</button>
 	   <button type="submit" name="value" value="/">/</button>
@@ -30,7 +30,6 @@
 
 	if(!empty($_POST))
 	{
-		
 		switch ($_POST['value']) 
 {
 	case '+':
@@ -49,16 +48,18 @@
 		
 		
 	}
-	
-	echo '</br>';
-	
-	$char = '+';
-	
-	
-	$x = $_POST['x'];
-	$z = $_POST['y'];
-$c = eval("return $x $char $z;");
-echo $c;
+/*	
+					echo '</br>';
+					
+					$char = '+';
+					
+					
+					$x = $_POST['x'];
+					$z = $_POST['y'];
+				$c = eval("return $x $char $z;");
+				echo $c;
+*/
+
 ?>
 
 
