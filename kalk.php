@@ -1,6 +1,5 @@
 
-
-test na local  poprawne teraz cos
+kurwa teraz działa
 
 
 <!DOCTYPE html>
