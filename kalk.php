@@ -9,7 +9,7 @@
       <body style="background:gray">
 	  
 	  <div style="width:1000px; height:100%; margin:0 auto; border:solid 1px black;">
-       <h1>   Moja pierwsza strona internetowa.</h1>
+       <h1>  kalkulator</h1>
 	   </h1>
 	   
 	   <form action="" method="POST">
