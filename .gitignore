@@ -1,4 +1,10 @@
-#komentarz
+#żeby git inore zaczoł działać
 
-*.php
+#			git rm -r --cached .
+
+#			git add .
+
+#			git commit -m ".gitignore is now working"
+
+kalk.php
 README.md
